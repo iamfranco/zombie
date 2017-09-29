@@ -1,5 +1,5 @@
 # zombie
-This is a more optimised version of the original MATLAB zombie apocalypse group project (https://github.com/UoMLegends/Zombie). This version uses vectorisation for movement increment, uses `knnsearch` for finding nearest enemy and preallocation for memory efficiency.
+This is a more optimised version (**created by Kin Fai Franco Chan and Zakaria Achouri**) of the original MATLAB zombie apocalypse group project (https://github.com/UoMLegends/Zombie). This version uses vectorisation for movement increment, uses `knnsearch` for finding nearest enemy and preallocation for memory efficiency.
 
 ### To run the simulation, do the following steps:
 1. save all the m files from this repository
